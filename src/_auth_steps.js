@@ -1,4 +1,6 @@
 /***
  * 1.console.google.firebase.com and create a firebase project.
- * 2.
+ * 2.npm install firebase in my ema-john-projects.
+ * 3.create afirebase.init.js folder in src and then setup the sdk file.
+ * 
  */
