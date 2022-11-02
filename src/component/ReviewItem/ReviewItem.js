@@ -5,7 +5,7 @@ import './ReviewItem.css'
 
 const ReviewItem = (props) => {
     const {product, handleDeleteButton} = props;
-    const { name, img, quantity, seller, price, shipping } = props.product;
+    const { name, img, quantity, price, shipping } = props.product;
     return (
         <div className='review-item'>
             <div>
