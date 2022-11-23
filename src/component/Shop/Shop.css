@@ -35,6 +35,22 @@
     }
 }
 
+.page-counter{
+    display: flex;
+    margin: 5px;
+    margin-left: 20px;
+    
+}
+.page-counter button{
+    margin: 5px;
+    background-color: aliceblue;
+    border: 1px solid orange;
+}
+.page-counter .selected{
+    background-color: blue;
+    color: aliceblue;
+}
+
 
 
 
